@@ -1,2 +1,2 @@
-# jberman11.github.io
-this is me
+# Responsive-Portfolio
+Copy of Basic with Media Queries
